@@ -4,6 +4,7 @@
 * [创世倾域（Chuangshi）在新伊甸](part0.md)
 * [如何提问](how-to-ask-questions.md)
 * [进入新伊甸](join-neweden/README.md)
+  * [0.入坑须知（Q&A）](join-neweden/q&a.md)
   * [1.认识 EVE 与 CCP](join-neweden/eve.md)
   * [2.EVE 欧服官网及相关网址](join-neweden/eve-webs.md)
   * [3.使用链接注册](join-neweden/registe.md)
