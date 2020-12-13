@@ -6,7 +6,7 @@
 
 点击`DOWNLOAD EVE ONLINE`下载登录器安装包，同时点 击`following file`下载数据包。
 
-另外，点击`DOWNLOAD EVE MAC CLIENT`下载 MAC 版本的登录器安装包。
+MAC用户可点击`DOWNLOAD EVE MAC CLIENT`下载 MAC 版本的登录器安装包。
 
 ![](../.gitbook/assets/1585660110884-8c8de4227e842826.png)
 
