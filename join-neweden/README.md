@@ -8,12 +8,12 @@
 | :--- | :--- |
 | 1.认识 EVE 与 CCP | [https://wiki.chuangshiqingyu.com/part1/what-is-eveonline](https://wiki.chuangshiqingyu.com/part1/what-is-eveonline) |
 | 2.EVE 欧服官网及相关网址 | [https://wiki.chuangshiqingyu.com/part1/eveonline-website](https://wiki.chuangshiqingyu.com/part1/eveonline-website) |
-| 3.使用链接注册 | [https://wiki.chuangshiqingyu.com/join-new-eden/register](https://wiki.chuangshiqingyu.com/join-new-eden/register) |
-| 4.下载游戏 | [https://wiki.chuangshiqingyu.com/join-new-eden/download](https://wiki.chuangshiqingyu.com/join-new-eden/download) |
-| 5.汉化补丁 | [https://wiki.chuangshiqingyu.com/join-new-eden/chinese](https://wiki.chuangshiqingyu.com/join-new-eden/chinese) |
-| 6.进入游戏 | [https://wiki.chuangshiqingyu.com/join-new-eden/join](https://wiki.chuangshiqingyu.com/join-new-eden/join) |
-| 7.创建角色 | [https://wiki.chuangshiqingyu.com/join-new-eden/create](https://wiki.chuangshiqingyu.com/join-new-eden/create) |
-| 8.收费机制 | [https://wiki.chuangshiqingyu.com/join-new-eden/omg](https://wiki.chuangshiqingyu.com/join-new-eden/omg) |
-| 9.EVE 黄金 8 法则 | [https://wiki.chuangshiqingyu.com/join-new-eden/8-golden-rules-for-eve](https://wiki.chuangshiqingyu.com/join-new-eden/8-golden-rules-for-eve) |
-| 10.名词解释 | [https://wiki.chuangshiqingyu.com/join-new-eden/explanation](https://wiki.chuangshiqingyu.com/join-new-eden/explanation) |
+| 3.使用链接注册 | [https://wiki.chuangshiqingyu.com/join-neweden/register](https://wiki.chuangshiqingyu.com/join-neweden/register) |
+| 4.下载游戏 | [https://wiki.chuangshiqingyu.com/join-neweden/download](https://wiki.chuangshiqingyu.com/join-neweden/download) |
+| 5.汉化补丁 | [https://wiki.chuangshiqingyu.com/join-neweden/chinese](https://wiki.chuangshiqingyu.com/join-neweden/chinese) |
+| 6.进入游戏 | [https://wiki.chuangshiqingyu.com/join-neweden/join](https://wiki.chuangshiqingyu.com/join-neweden/join) |
+| 7.创建角色 | [https://wiki.chuangshiqingyu.com/join-neweden/create](https://wiki.chuangshiqingyu.com/join-neweden/create) |
+| 8.收费机制 | [https://wiki.chuangshiqingyu.com/join-neweden/omg](https://wiki.chuangshiqingyu.com/join-neweden/omg) |
+| 9.EVE 黄金 8 法则 | [https://wiki.chuangshiqingyu.com/join-neweden/8-golden-rules-for-eve](https://wiki.chuangshiqingyu.com/join-neweden/8-golden-rules-for-eve) |
+| 10.名词解释 | [https://wiki.chuangshiqingyu.com/join-neweden/explanation](https://wiki.chuangshiqingyu.com/join-neweden/explanation) |
 
