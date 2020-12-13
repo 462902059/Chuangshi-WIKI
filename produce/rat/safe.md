@@ -44,9 +44,9 @@
 
 ![](../../.gitbook/assets/snipaste_2020-07-11_14-08-27.png)
 
-加入 `S-Q02B反收割` 舰队
+加入 `欧莎值守` 舰队
 
-![](../../.gitbook/assets/snipaste_2020-07-11_14-10-52.png)
+![](../../.gitbook/assets/Snipaste_2020-12-13_16-04-19.png)
 
 ## 被抓呼救流程
 
