@@ -15,7 +15,6 @@
   * [8.收费机制](join-neweden/omg.md)
   * [9.EVE 黄金 8 法则](join-neweden/8-rule.md)
   * [10.名词解释](join-neweden/explanation.md)
-  * [11.技能规划](join-neweden/skill.md)
 * [职业代理人](agent/README.md)
   * [探索](agent/explore.md)
   * [商业](agent/business.md)
