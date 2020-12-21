@@ -4,7 +4,7 @@
 * [创世倾域（Chuangshi）在新伊甸](part0.md)
 * [如何提问](how-to-ask-questions.md)
 * [进入新伊甸](join-neweden/README.md)
-  * [0.入坑须知（Q&A）](join-neweden/q&a.md)
+  * [0.入坑须知（Q&A）](join-neweden/q-and-a.md)
   * [1.认识 EVE 与 CCP](join-neweden/eve.md)
   * [2.EVE 欧服官网及相关网址](join-neweden/eve-webs.md)
   * [3.使用链接注册](join-neweden/registe.md)
@@ -15,6 +15,7 @@
   * [8.收费机制](join-neweden/omg.md)
   * [9.EVE 黄金 8 法则](join-neweden/8-rule.md)
   * [10.名词解释](join-neweden/explanation.md)
+  * [11.技能规划](join-neweden/skill.md)
 * [职业代理人](agent/README.md)
   * [探索](agent/explore.md)
   * [商业](agent/business.md)
@@ -93,6 +94,7 @@
 
 ## 工具 <a id="tools"></a>
 
+* [网页打不开看这里](tools/wang-ye-da-bu-kai-kan-zhe-li.md)
 * [联盟、军团工具及网站](tools/alli-tools/README.md)
   * [DKP（贡献点）系统](tools/alli-tools/dkp-system.md)
   * [QQ 邮箱收不到验证码的处理方法](tools/alli-tools/receive-code.md)
